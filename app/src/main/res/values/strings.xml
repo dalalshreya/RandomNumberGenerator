@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandomNumberGenerator</string>
+    <string name="button2">Random</string>
+    <string name="button1">Count</string>
+    <string name="button3">Reset</string>
+    <string name="start_message">0</string>
+</resources>
